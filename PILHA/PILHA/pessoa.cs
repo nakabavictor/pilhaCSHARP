@@ -8,15 +8,36 @@ namespace PILHA
 {
     internal class Pessoa
     {
-        int idade;
-        string nome;
+        private int idade;
+        private string nome;
+        private Pessoa proxima;
+
+        public Pessoa(int idade, string nome, Pessoa proxima)
+        {
+            this.idade = idade;
+            this.nome = nome;
+            this.proxima = proxima;
+        }
+    
+        public Pessoa()
+        {
+            nome = string.Empty;
+            idade = 0;
+            proxima = null;
+        }
+
+        public Pessoa Proxima
+        {
+            get { return proxima; }
+            set { proxima = value; }
+        }
 
         public int getIdade
         {
             get { return idade; }
         }
 
-        public string Nome
+        public string getNome
         {
             get { return nome; }
         }
