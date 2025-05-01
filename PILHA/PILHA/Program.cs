@@ -10,7 +10,18 @@ namespace PILHA
     {
         static void Main(string[] args)
         {
+            Pilha pilha1 = new Pilha();
+            Pessoa pessoa1 = new Pessoa();
+            Pessoa seupe = new Pessoa();
+            seupe = new Pessoa(18, "Joao");
+            pessoa1 = new Pessoa(20, "Pedro");
+            pilha1.Empilhar(pessoa1);
+            pilha1.Empilhar(seupe);
+            pilha1.Consultartopo();
+            pilha1.Desempilhar();
+            pilha1.Consultartopo();
 
+            Console.ReadKey();
         }
     }
 }
