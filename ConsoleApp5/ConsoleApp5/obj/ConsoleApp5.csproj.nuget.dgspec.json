@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj": {}
+    "C:\\Users\\Usuario\\github\\pilhaCSHARP\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj": {
+    "C:\\Users\\Usuario\\github\\pilhaCSHARP\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\github\\pilhaCSHARP\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
         "projectName": "ConsoleApp5",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
+        "projectPath": "C:\\Users\\Usuario\\github\\pilhaCSHARP\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\ConsoleApp5\\ConsoleApp5\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\github\\pilhaCSHARP\\ConsoleApp5\\ConsoleApp5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,9 +43,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

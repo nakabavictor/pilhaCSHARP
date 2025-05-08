@@ -21,11 +21,9 @@ namespace ConsoleApp5
             tamanhopilha = 0;
         }
 
-        public Boolean pilhaVazia()
+        private Boolean pilhaVazia()
         {
-            Boolean resp;
-
-            return resp = topo == fundo ? true : false;
+            return tamanhopilha == 0 ? true : false;
         }
 
         public void Empilhar(Pessoa pessoa)
@@ -54,14 +52,13 @@ namespace ConsoleApp5
 
         public void MostrarPilha()
         {
-
             Pessoa primeira = topo;
             if (!pilhaVazia())
             {
                 Console.WriteLine("Comecando pelo topo: ");
                 for (int i = 0; i < tamanhopilha; i++)
                 {
-                    Console.WriteLine("Nome : " + primeira.getNome + ". Idade: " + primeira.getIdade);
+                    Console.WriteLine("Nome : " + primeira.getNome + " Idade: " + primeira.getIdade);
                     if (primeira.Proxima != null)
                         primeira = primeira.Proxima;
                 }

@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\ConsoleApp5\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\github\\pilhaCSHARP\\ConsoleApp5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D92B0845-7E95-4721-932B-DB1DDE9A5573}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\usuario\\source\\repos\\consoleapp5\\consoleapp5\\pilha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D92B0845-7E95-4721-932B-DB1DDE9A5573}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\pilha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D92B0845-7E95-4721-932B-DB1DDE9A5573}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\usuario\\source\\repos\\consoleapp5\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D92B0845-7E95-4721-932B-DB1DDE9A5573}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\usuario\\github\\pilhacsharp\\consoleapp5\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D92B0845-7E95-4721-932B-DB1DDE9A5573}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D92B0845-7E95-4721-932B-DB1DDE9A5573}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\usuario\\source\\repos\\consoleapp5\\consoleapp5\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D92B0845-7E95-4721-932B-DB1DDE9A5573}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\usuario\\github\\pilhacsharp\\consoleapp5\\consoleapp5\\fila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92B0845-7E95-4721-932B-DB1DDE9A5573}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\fila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D92B0845-7E95-4721-932B-DB1DDE9A5573}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\usuario\\github\\pilhacsharp\\consoleapp5\\consoleapp5\\pilha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92B0845-7E95-4721-932B-DB1DDE9A5573}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\pilha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D92B0845-7E95-4721-932B-DB1DDE9A5573}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\usuario\\github\\pilhacsharp\\consoleapp5\\consoleapp5\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D92B0845-7E95-4721-932B-DB1DDE9A5573}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,44 +26,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:94711395:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Pilha.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ConsoleApp5\\ConsoleApp5\\Pilha.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\github\\pilhaCSHARP\\ConsoleApp5\\ConsoleApp5\\Pilha.cs",
               "RelativeDocumentMoniker": "ConsoleApp5\\Pilha.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ConsoleApp5\\ConsoleApp5\\Pilha.cs",
+              "ToolTip": "C:\\Users\\Usuario\\github\\pilhaCSHARP\\ConsoleApp5\\ConsoleApp5\\Pilha.cs",
               "RelativeToolTip": "ConsoleApp5\\Pilha.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADwAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T21:29:41.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Fila.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\github\\pilhaCSHARP\\ConsoleApp5\\ConsoleApp5\\Fila.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\Fila.cs",
+              "ToolTip": "C:\\Users\\Usuario\\github\\pilhaCSHARP\\ConsoleApp5\\ConsoleApp5\\Fila.cs",
+              "RelativeToolTip": "ConsoleApp5\\Fila.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:39:09.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ConsoleApp5\\ConsoleApp5\\Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\github\\pilhaCSHARP\\ConsoleApp5\\ConsoleApp5\\Pessoa.cs",
               "RelativeDocumentMoniker": "ConsoleApp5\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ConsoleApp5\\ConsoleApp5\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Usuario\\github\\pilhaCSHARP\\ConsoleApp5\\ConsoleApp5\\Pessoa.cs",
               "RelativeToolTip": "ConsoleApp5\\Pessoa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\github\\pilhaCSHARP\\ConsoleApp5\\ConsoleApp5\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp5\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\github\\pilhaCSHARP\\ConsoleApp5\\ConsoleApp5\\Program.cs",
               "RelativeToolTip": "ConsoleApp5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T21:28:40.282Z",
               "EditorCaption": ""
